@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodycewasuop.github.io/sitemap.xml
